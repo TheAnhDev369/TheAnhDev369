@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 Currently I am studying at FPT Polytechnic College in Hanoi
 - 👯 I'm looking to collaborate on Github
 - 🤔 I'm looking for financial help
-- 💬 Ask me about programming languages ​​like PHP, JS, PYTHON, LUA,...
+- 💬 Ask me about programming languages ​​like PHP, JS, PYTHON, LUA, RUST, GOLANG,...
 - 📫 How to contact me: theanhdev369@gmail.com
-- 😄 Pronoun: GM(GameMaster)
+- 😄 Pronoun: GM (GameMaster)
 - ⚡ Fun fact: I love searching for tech gadgets
