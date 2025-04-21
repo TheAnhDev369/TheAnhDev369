@@ -53,7 +53,7 @@
 ![Next.js](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NodeJs-339933?style=flat&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-[![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)](https://symfony.com/)
+[![Symfony](https://img.shields.io/badge/-Symfony-black?logo=symfony&logoColor=white)](https://symfony.com/)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Actix Web](https://img.shields.io/badge/Actix%20Web-000000?style=flat&logo=actix&logoColor=white)
