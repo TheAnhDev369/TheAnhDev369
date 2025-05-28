@@ -56,7 +56,7 @@
 [![Symfony](https://img.shields.io/badge/-Symfony-black?logo=symfony&logoColor=white)](https://symfony.com/)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Actix Web](https://img.shields.io/badge/Actix%20Web-000000?style=flat&logo=actix&logoColor=white)
+<!--[Actix Web](https://img.shields.io/badge/Actix%20Web-000000?style=flat&logo=actix&logoColor=white) -->
 
 
 
